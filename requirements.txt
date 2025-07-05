@@ -1,6 +1,8 @@
-Flask
-Flask-Cors
-tensorflow==2.9.1
+Flask==2.2.5
+Flask-Cors==3.0.10
+tensorflow-cpu==2.10.0
 numpy
 Pillow
 gunicorn
+
+
